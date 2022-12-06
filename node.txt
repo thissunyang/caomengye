@@ -4,11 +4,6 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>许洋洋的自我介绍</title>
-		<style type="text/css">
-			div{
-				
-			}
-		</style>
 	</head>
 	<body style="background-color: #FFFFF0;"><div>
 		
