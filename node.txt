@@ -3,17 +3,16 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>小熊的自我介绍</title>
+		<title>许洋洋的自我介绍</title>
 		<style type="text/css">
 			div{
 				
 			}
 		</style>
 	</head>
-	<body style="background-color:rgba(255,200,255,0.2);"><div>
+	<body><div>
 		
-		<h1 style="text-align: center;">小熊的自我介绍</h1>
-		<p style="text-align: center; color: cornflowerblue;"><font size="5">我的名字叫熊馨怡，来自美丽的山城重庆。</font></p>
-		<p style="text-align: center; color: cornflowerblue;"><font size="5">深圳大学2022级的新生，来自艺术学部音乐舞蹈学院舞蹈编导专业。</font></p>
+		<h1 style="text-align: center;">许洋洋的自我介绍</h1>
+		<p style="text-align: center; color:pink;"><font size="5">我叫许洋洋，来自四川成都，是一名艺术学部音乐表演钢琴演奏专业的22级新生。</font></p>
 	</body></div>
 </html>
