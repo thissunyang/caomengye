@@ -10,9 +10,9 @@
 			}
 		</style>
 	</head>
-	<body><div>
+	<body style="background-color: #FFFFF0;"><div>
 		
-		<h1 style="text-align: center;">许洋洋的自我介绍</h1>
+		<h1 style="text-align: center;color: cornflowerblue">许洋洋的自我介绍</h1>
 		<p style="text-align: center; color:pink;"><font size="5">我叫许洋洋，来自四川成都，是一名艺术学部音乐表演钢琴演奏专业的22级新生。</font></p>
 	</body></div>
 </html>
